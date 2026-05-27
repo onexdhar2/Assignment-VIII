@@ -1,0 +1,222 @@
+[
+  {
+    "id": 1,
+    "title": "Complete Web Development Bootcamp",
+    "instructor": "John Doe",
+    "duration": "20 hours",
+    "rating": 4.8,
+    "level": "Beginner",
+    "description": "Learn full-stack web development from scratch.",
+    "image": "https://i.postimg.cc/example-course1.png",
+    "category": "Development"
+  },
+  {
+    "id": 2,
+    "title": "Mastering JavaScript Essentials",
+    "instructor": "Sarah Williams",
+    "duration": "15 hours",
+    "rating": 4.7,
+    "level": "Intermediate",
+    "description": "Build strong JavaScript fundamentals and modern ES6+ skills.",
+    "image": "https://i.postimg.cc/example-course2.png",
+    "category": "Programming"
+  },
+  {
+    "id": 3,
+    "title": "UI/UX Design Fundamentals",
+    "instructor": "Emily Johnson",
+    "duration": "12 hours",
+    "rating": 4.6,
+    "level": "Beginner",
+    "description": "Learn design principles, wireframing, and user experience concepts.",
+    "image": "https://i.postimg.cc/example-course3.png",
+    "category": "Design"
+  },
+  {
+    "id": 4,
+    "title": "Python for Data Science",
+    "instructor": "Michael Brown",
+    "duration": "18 hours",
+    "rating": 4.9,
+    "level": "Intermediate",
+    "description": "Analyze data, build visualizations, and machine learning basics.",
+    "image": "https://i.postimg.cc/example-course4.png",
+    "category": "Data Science"
+  },
+  {
+    "id": 5,
+    "title": "Digital Marketing Strategy",
+    "instructor": "David Miller",
+    "duration": "10 hours",
+    "rating": 4.5,
+    "level": "Beginner",
+    "description": "Master SEO, social media marketing, and advertising campaigns.",
+    "image": "https://i.postimg.cc/example-course5.png",
+    "category": "Marketing"
+  },
+  {
+    "id": 6,
+    "title": "Mobile App Development with Flutter",
+    "instructor": "Sophia Anderson",
+    "duration": "22 hours",
+    "rating": 4.8,
+    "level": "Advanced",
+    "description": "Build cross-platform mobile apps using Flutter and Dart.",
+    "image": "https://i.postimg.cc/example-course6.png",
+    "category": "Development"
+  },
+  {
+    "id": 7,
+    "title": "React JS Complete Guide",
+    "instructor": "Daniel Wilson",
+    "duration": "16 hours",
+    "rating": 4.7,
+    "level": "Intermediate",
+    "description": "Create dynamic web apps using React and component-based architecture.",
+    "image": "https://i.postimg.cc/example-course7.png",
+    "category": "Frontend"
+  },
+  {
+    "id": 8,
+    "title": "Node.js Backend Development",
+    "instructor": "Chris Taylor",
+    "duration": "19 hours",
+    "rating": 4.8,
+    "level": "Advanced",
+    "description": "Develop scalable backend APIs with Node.js and Express.",
+    "image": "https://i.postimg.cc/example-course8.png",
+    "category": "Backend"
+  },
+  {
+    "id": 9,
+    "title": "Cybersecurity Essentials",
+    "instructor": "Olivia Moore",
+    "duration": "14 hours",
+    "rating": 4.6,
+    "level": "Beginner",
+    "description": "Understand security threats and cybersecurity best practices.",
+    "image": "https://i.postimg.cc/example-course9.png",
+    "category": "Security"
+  },
+  {
+    "id": 10,
+    "title": "AWS Cloud Practitioner",
+    "instructor": "Ethan Clark",
+    "duration": "17 hours",
+    "rating": 4.9,
+    "level": "Intermediate",
+    "description": "Learn cloud computing and AWS fundamentals.",
+    "image": "https://i.postimg.cc/example-course10.png",
+    "category": "Cloud"
+  },
+  {
+    "id": 11,
+    "title": "Machine Learning Basics",
+    "instructor": "Emma White",
+    "duration": "21 hours",
+    "rating": 4.8,
+    "level": "Intermediate",
+    "description": "Explore machine learning models and predictive analytics.",
+    "image": "https://i.postimg.cc/example-course11.png",
+    "category": "AI & ML"
+  },
+  {
+    "id": 12,
+    "title": "Graphic Design Masterclass",
+    "instructor": "Lucas Green",
+    "duration": "13 hours",
+    "rating": 4.5,
+    "level": "Beginner",
+    "description": "Design professional graphics using modern tools and techniques.",
+    "image": "https://i.postimg.cc/example-course12.png",
+    "category": "Design"
+  },
+  {
+    "id": 13,
+    "title": "DevOps Fundamentals",
+    "instructor": "Ryan Adams",
+    "duration": "16 hours",
+    "rating": 4.7,
+    "level": "Advanced",
+    "description": "Learn CI/CD pipelines, Docker, and deployment automation.",
+    "image": "https://i.postimg.cc/example-course13.png",
+    "category": "DevOps"
+  },
+  {
+    "id": 14,
+    "title": "SQL Database Mastery",
+    "instructor": "Sophia Harris",
+    "duration": "11 hours",
+    "rating": 4.6,
+    "level": "Beginner",
+    "description": "Write efficient SQL queries and manage relational databases.",
+    "image": "https://i.postimg.cc/example-course14.png",
+    "category": "Database"
+  },
+  {
+    "id": 15,
+    "title": "Blockchain Development Basics",
+    "instructor": "Noah Scott",
+    "duration": "18 hours",
+    "rating": 4.7,
+    "level": "Advanced",
+    "description": "Understand blockchain concepts and smart contract development.",
+    "image": "https://i.postimg.cc/example-course15.png",
+    "category": "Blockchain"
+  },
+  {
+    "id": 16,
+    "title": "Figma UI Design Workshop",
+    "instructor": "Grace Young",
+    "duration": "9 hours",
+    "rating": 4.5,
+    "level": "Beginner",
+    "description": "Design interfaces and prototypes with Figma.",
+    "image": "https://i.postimg.cc/example-course16.png",
+    "category": "UI Design"
+  },
+  {
+    "id": 17,
+    "title": "Android App Development",
+    "instructor": "Benjamin Hall",
+    "duration": "24 hours",
+    "rating": 4.8,
+    "level": "Advanced",
+    "description": "Build Android applications using Kotlin and Android Studio.",
+    "image": "https://i.postimg.cc/example-course17.png",
+    "category": "Mobile Development"
+  },
+  {
+    "id": 18,
+    "title": "Video Editing with Premiere Pro",
+    "instructor": "Natalie King",
+    "duration": "8 hours",
+    "rating": 4.4,
+    "level": "Beginner",
+    "description": "Edit professional videos using Adobe Premiere Pro.",
+    "image": "https://i.postimg.cc/example-course18.png",
+    "category": "Video Editing"
+  },
+  {
+    "id": 19,
+    "title": "Data Structures and Algorithms",
+    "instructor": "William Turner",
+    "duration": "25 hours",
+    "rating": 4.9,
+    "level": "Advanced",
+    "description": "Master algorithms and coding interview preparation.",
+    "image": "https://i.postimg.cc/example-course19.png",
+    "category": "Programming"
+  },
+  {
+    "id": 20,
+    "title": "Project Management Professional Basics",
+    "instructor": "Ava Martinez",
+    "duration": "12 hours",
+    "rating": 4.6,
+    "level": "Intermediate",
+    "description": "Learn project planning, execution, and management techniques.",
+    "image": "https://i.postimg.cc/example-course20.png",
+    "category": "Management"
+  }
+]

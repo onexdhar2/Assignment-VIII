@@ -1,0 +1,15 @@
+import React from 'react'
+
+const PopCourses = async () => {
+  const res = await fetch("http://localhost:3000/api/courses");
+  const data = await res.json();
+  console.log(data);
+  return (
+    <div>
+      
+    </div>
+  )
+}
+
+export default PopCourses
+
