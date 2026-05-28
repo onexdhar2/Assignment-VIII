@@ -5,7 +5,7 @@ const PopCourses = async () => {
   const res = await fetch("https://assignment-viii.vercel.app/data.json");
   const course = await res.json();
   const courses = course.slice(0, 9);
-  console.log(courses);
+  // console.log(courses);
   return (
     <div>
       <h1 className="text-3xl font-bold text-center mt-10 mb-5">

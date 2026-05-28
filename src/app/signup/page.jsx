@@ -29,9 +29,8 @@ export default function SignUpPage() {
       image,
     });
     console.log({ data, error });
-    if (error) {
-      console.log("Error Message:", error.message);
-      console.log("Full Error:", error);
+    if (!error) {
+      router.push("/signin");
     }
   };
 
